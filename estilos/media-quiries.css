@@ -25,6 +25,9 @@
         height: 34px;
         width: 340px;
     }
+    footer{
+        bottom: 80px;
+    }
 }
 
 
@@ -53,4 +56,9 @@
         height: 34px;
         width: 420px;
     }
+
+    footer{
+        bottom: 80px;
+    }
+
 }

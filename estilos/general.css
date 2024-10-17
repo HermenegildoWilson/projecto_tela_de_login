@@ -110,9 +110,9 @@ a:hover{
 
 footer{
     position: absolute;
-    top: 80%;
+    bottom: 5px;
     left: 50%;
-    transform: translate(-50%, -80%);
+    transform: translate(-50%);
     color: white;
     text-align: center;
     font-size: 0.9em;
